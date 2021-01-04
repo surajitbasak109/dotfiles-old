@@ -1,0 +1,17 @@
+/.p10k.zsh
+/.gitconfig
+/plugged
+.vim/plugged
+.vim/ings(\ **kwargs\ ):
+.vim/pack
+.vim/sessions
+.vim/temp_dirs
+.vim/sources_non_forked
+
+.phpls
+.autojump
+.autojump
+.gitmodules
+.oh-my-zsh
+.vim/sources_forked
+.zsh-syntax-highlighting

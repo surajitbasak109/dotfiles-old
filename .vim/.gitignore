@@ -1,0 +1,10 @@
+temp_dirs/undodir/*
+sources_non_forked/
+temp_dirs/
+sources_forked/
+sources_non_forked/
+sources_non_forked/
+my_plugins/
+bundle/
+tags
+.DS_Store

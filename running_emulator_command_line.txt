@@ -1,0 +1,2 @@
+~/Android/Sdk/emulator/emulator -list-avds
+~/Android/Sdk/emulator/emulator -avd Pixel_XL_API_R -netdelay none -netspeed full
